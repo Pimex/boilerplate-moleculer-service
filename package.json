@@ -1,7 +1,7 @@
 {
-  "name": "pimex-core-services",
-  "version": "3.0.0",
-  "description": "Pimex core service, basic services for Pimex resources",
+  "name": "pimex-service-boilerplate",
+  "version": "0.0.1",
+  "description": "Pimex service boilerplate for moleculer",
   "main": "./moleculer.config.js",
   "private": true,
   "scripts": {
